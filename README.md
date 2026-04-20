@@ -62,8 +62,8 @@ npm run dev
 ### POST /tasks
 ```json
 {
-  "title": "Belajar Express",
-  "description": "Pelajari routing dan middleware"
+  "title": "Belajar Memasak",
+  "description": "Ayo Memasak"
 }
 ```
 
